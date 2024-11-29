@@ -1,0 +1,7 @@
+Burger|50.0|SNACKS|true|5
+Pizza|100.0|MEALS|false|6
+Coke|40.0|BEVERAGES|true|4
+Pasta|65.0|MEALS|true|6
+Coffee|30.0|BEVERAGES|true|3
+Sandwich|45.0|SNACKS|true|5
+French Fries|40.0|APPETIZERS|true|2

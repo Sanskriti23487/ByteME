@@ -1,0 +1,5 @@
+Order{orderId='001', customerName='sans', isVIP=false, Special Request='', items={}, status=DELIVERED, orderDate='2024-11-24 00:57:54'}
+Order{orderId='001', customerName='sans', isVIP=false, Special Request='', items={}, status=DELIVERED, orderDate='2024-11-24 01:13:54'}
+Order{orderId='001', customerName='sans', isVIP=false, Special Request='', items={}, status=DELIVERED, orderDate='2024-11-24 01:19:43'}
+Order{orderId='001', customerName='sans', isVIP=false, Special Request='', items={}, status=DELIVERED, orderDate='2024-11-24 01:52:32'}
+Order{orderId='001', customerName='sans', isVIP=false, Special Request='', items={Pizza:1}, status=DELIVERED, orderDate='2024-11-24 03:18:00'}

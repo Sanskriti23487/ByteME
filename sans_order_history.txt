@@ -1,0 +1,1 @@
+Order{orderId='001', customerName='sans', isVIP=false, Special Request='', items={Pizza:1}, status=DELIVERED, orderDate='2024-11-24 03:18:00'}
